@@ -17,11 +17,13 @@ h2 {
 }
 h3 {
     color: violet;
+    text-align: center;
 }
 p {
     color: red;
-    columns: left;
+    text-align: center;
 }
 li {
     color: lightgoldenrodyellow;
+    text-align: center;
 }
